@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjektKoncowyDevKit", "ProjektKoncowyDevKit\ProjektKoncowyDevKit.csproj", "{DDED9EC9-EA1F-4A8E-9A75-EDFEAD3F5B3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDED9EC9-EA1F-4A8E-9A75-EDFEAD3F5B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDED9EC9-EA1F-4A8E-9A75-EDFEAD3F5B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDED9EC9-EA1F-4A8E-9A75-EDFEAD3F5B3E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DDED9EC9-EA1F-4A8E-9A75-EDFEAD3F5B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDED9EC9-EA1F-4A8E-9A75-EDFEAD3F5B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDED9EC9-EA1F-4A8E-9A75-EDFEAD3F5B3E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
